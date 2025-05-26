@@ -1,0 +1,20 @@
+{
+    "name": "jorge/php1",
+    "description": "Estudo de Php",
+    "license": "MIT",
+    "version": "1",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jorge"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require-dev": {
+
+    }
+}
